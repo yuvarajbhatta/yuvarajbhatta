@@ -125,16 +125,14 @@ Building modern applications with:
 
 ## 🌍 Areas of Interest
 
-```txt
-☁️ Cloud Computing
-🧠 Artificial Intelligence
-🔐 Security & Infrastructure
-📊 Data Science
-⚙️ Automation Engineering
-🐧 Linux Ecosystem
-🚀 Backend Systems
-📡 Self Hosted Platforms
-```
+![Cloud Infrastructure](https://img.shields.io/badge/Cloud_Infrastructure-2563EB?style=for-the-badge&logo=icloud&logoColor=white)
+![AI & Automation](https://img.shields.io/badge/AI_&_Automation-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
+![Security & Reliability](https://img.shields.io/badge/Security_&_Reliability-DC2626?style=for-the-badge&logo=shield&logoColor=white)
+![Data Science & Analytics](https://img.shields.io/badge/Data_Science_&_Analytics-0891B2?style=for-the-badge&logo=databricks&logoColor=white)
+![Developer Tooling](https://img.shields.io/badge/Developer_Tooling-0F172A?style=for-the-badge&logo=git&logoColor=white)
+![Linux & Self Hosting](https://img.shields.io/badge/Linux_&_Self_Hosting-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Backend Engineering](https://img.shields.io/badge/Backend_Engineering-059669?style=for-the-badge&logo=springboot&logoColor=white)
+![Networking & Systems](https://img.shields.io/badge/Networking_&_Systems-9333EA?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ---
 
