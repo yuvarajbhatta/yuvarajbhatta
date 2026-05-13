@@ -35,6 +35,9 @@ Focus:
 ### 🌐 Cloud & Infrastructure
 
 Designing self-hosted infrastructure and scalable cloud-connected systems using:
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 - Docker - Linux - Cloudflare - Reverse Proxies - Secure Remote Access - Automated Deployments
 
