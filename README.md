@@ -35,41 +35,45 @@ Focus:
 ### 🌐 Cloud & Infrastructure
 
 Designing self-hosted infrastructure and scalable cloud-connected systems using:
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-
-- Docker - Linux - Cloudflare - Reverse Proxies - Secure Remote Access - Automated Deployments
+![Reverse Proxy](https://img.shields.io/badge/Reverse_Proxy-0F172A?style=flat-square&logo=nginx&logoColor=white)
+![Secure Remote Access](https://img.shields.io/badge/Secure_Remote_Access-0891B2?style=flat-square&logo=tailscale&logoColor=white)
+![Automated Deployments](https://img.shields.io/badge/Automated_Deployments-7C3AED?style=flat-square&logo=githubactions&logoColor=white)
 
 ### 🤖 AI & Automation
 
 Exploring intelligent automation systems capable of:
 
-- Workflow orchestration
-- Internal tooling integration
-- Smart monitoring
-- Agent-driven interactions
-- Data-aware automation
+![Workflow Orchestration](https://img.shields.io/badge/Workflow_Orchestration-2563EB?style=flat-square&logo=apacheairflow&logoColor=white)
+![Internal Tooling Integration](https://img.shields.io/badge/Internal_Tooling_Integration-0F172A?style=flat-square&logo=gitlab&logoColor=white)
+![Smart Monitoring](https://img.shields.io/badge/Smart_Monitoring-059669?style=flat-square&logo=prometheus&logoColor=white)
+![Agent-Driven Interactions](https://img.shields.io/badge/Agent--Driven_Interactions-7C3AED?style=flat-square&logo=openai&logoColor=white)
+![Data-Aware Automation](https://img.shields.io/badge/Data--Aware_Automation-0891B2?style=flat-square&logo=databricks&logoColor=white)
+
+
 
 ### 🧠 Data Science & Analytics
 
 Working on practical applications of:
 
-- Machine Learning
-- Statistical Modeling
-- Predictive Analytics
-- Data Visualization
-- Natural Language Processing
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Statistical Modeling](https://img.shields.io/badge/Statistical_Modeling-1D4ED8?style=flat-square&logo=scipy&logoColor=white)
+![Predictive Analytics](https://img.shields.io/badge/Predictive_Analytics-DC2626?style=flat-square&logo=plotly&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-9333EA?style=flat-square&logo=grafana&logoColor=white)
+![Natural Language Processing](https://img.shields.io/badge/Natural_Language_Processing-0EA5E9?style=flat-square&logo=spacy&logoColor=white)
 
 ### 🛠️ Full Stack Engineering
 
 Building modern applications with:
 
-- Java & Spring Boot
-- PostgreSQL & MySQL
-- REST APIs
-- Authentication Systems
-- Responsive UI Architectures
+![Java & Spring Boot](https://img.shields.io/badge/Java_&_Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL & MySQL](https://img.shields.io/badge/PostgreSQL_&_MySQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0F172A?style=flat-square&logo=fastapi&logoColor=white)
+![Authentication Systems](https://img.shields.io/badge/Authentication_Systems-7C3AED?style=flat-square&logo=auth0&logoColor=white)
+![Responsive UI Architectures](https://img.shields.io/badge/Responsive_UI_Architectures-2563EB?style=flat-square&logo=react&logoColor=white)
 
 ---
 
