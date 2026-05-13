@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**yuvarajbhatta/yuvarajbhatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Yuva Bhatta 👋
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Developer;Master's+in+Data+Science;Building+AI+%2B+POS+%2B+Infrastructure;Self-Hosting+Enthusiast;Java+%7C+Spring+Boot+%7C+Cloud+%7C+Automation" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=yuvarajbhatta&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+
+</div>
+
+---
+
+# 🚀 About Me
+
+```yaml
+Name: Yuva Bhatta
+Location: Texas, USA
+Origin: Nepal 🇳🇵
+Role: Software Developer
+Education: Master's in Data Science
+Focus:
+  - Backend Engineering
+  - AI Automation
+  - Self Hosting
+  - Cloud Infrastructure
+  - POS Systems
+  - Data Science
