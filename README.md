@@ -1,6 +1,6 @@
 <div align="center">
 
-# Yuva Bhatta 👋
+# Yuva Raj Bhatta 👋
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+%26+Automation+Enthusiast;Cloud+%26+Infrastructure+Builder;Data+Science+Graduate;Building+Systems+That+Scale" />
 
@@ -90,9 +90,13 @@ Building modern applications with:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuvarajbhatta&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuvarajbhatta&theme=tokyonight" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvarajbhatta&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuvarajbhatta&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuvarajbhatta&theme=tokyonight" />
 
 </div>
 
