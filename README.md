@@ -15,7 +15,7 @@
 ## ⚡ About Me
 
 ```yaml
-Name: Yuva Bhatta
+Name: Yuva R Bhatta
 Location: Texas, USA
 Origin: Nepal 🇳🇵
 Role: Software Developer
@@ -24,7 +24,6 @@ Education: Master's in Data Science
 Focus:
   - Backend Engineering
   - AI Automation
-  - Self Hosting
   - Cloud Infrastructure
   - Data Science
 ```
@@ -37,12 +36,7 @@ Focus:
 
 Designing self-hosted infrastructure and scalable cloud-connected systems using:
 
-- Docker
-- Linux
-- Cloudflare
-- Reverse Proxies
-- Secure Remote Access
-- Automated Deployments
+- Docker - Linux - Cloudflare - Reverse Proxies - Secure Remote Access - Automated Deployments
 
 ### 🤖 AI & Automation
 
